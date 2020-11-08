@@ -1,0 +1,19 @@
+// Place all the styles related to the check_answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.correct_class_design{
+    color: black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    background-image: url(https://media4.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif?cid=ecf05e47f09745s6i6yi6pqonkxiqb0mvqs4roob6j10bfpa&rid=giphy.gif);
+}
+.incorrect_class_design{
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    background-image: url(https://media2.giphy.com/media/fUqfaPVjiAQcfticZH/giphy.gif);
+}
